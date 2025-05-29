@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Samuel Sugra
+- 🌱 I’m currently studying Applied Informatics in Automation at the Slovak University of Technology in Trnava
+- 📫 How to reach me:            Instagram: @sugrasamuel            Mail: xsugra@stuba.sk
