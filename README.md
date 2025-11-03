@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Samuel Sugra
-- 🌱 I’m currently studying Applied Informatics in Automation at the Slovak University of Technology in Trnava
+- 🌱 Student of Applied Informatics in Automation at STU Faculty of Materials Science in Trnava
 - 📫 How to reach me:            Instagram: @sugrasamuel            Mail: xsugra@stuba.sk
