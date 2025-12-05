@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Sugra
+- 👋 Hi, I’m Samuel Šugra
 - 🌱 Student of Applied Informatics in Automation at STU Faculty of Materials Science in Trnava
 - 📫 How to reach me:
   - Instagram: [@sugrasamuel](https://www.instagram.com/sugrasamuel/)
