@@ -30,15 +30,6 @@ I maintain a high-density knowledge base (my **Second Brain**) in Obsidian, leve
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsugra&show_icons=true&theme=transparent&hide_border=true&title_color=6ea8fe&icon_color=6ea8fe&text_color=b6c2cf" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsugra&layout=compact&theme=transparent&hide_border=true&title_color=6ea8fe&text_color=b6c2cf" />
-</p>
-
----
-
 ### 📫 Let's Connect
  
  <table>
