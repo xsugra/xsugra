@@ -19,9 +19,6 @@ I'm a student of **Applied Informatics in Automation** at **STU MTF**, focused o
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### **AI & Productivity**
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Local AI](https://img.shields.io/badge/Local_AI-Ollama/Qwen-orange?style=for-the-badge&logo=ai)
 
 ---
 
